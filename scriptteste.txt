@@ -1,0 +1,3 @@
+forumavaliativo
+
+Script de testes do GitHub para o forum avaliativo.
